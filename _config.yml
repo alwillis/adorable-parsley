@@ -70,3 +70,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://adorable-parsley-713e1.netlify.app'
