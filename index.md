@@ -4,6 +4,24 @@ sections:
   - type: features_section
     title: Features
     features:
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        align: left
+        image_alt: lorem-ipsum
+        image_position: left
+        actions: []
+        type: feature
+        image: images/Website30.jpg
       - title: Feature 1
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
@@ -43,24 +61,6 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        align: left
-        image_alt: lorem-ipsum
-        image_position: left
-        actions: []
-        type: feature
-        image: images/Website30.jpg
   - type: blog_feed_section
     title: What's New
     show_recent: true
