@@ -6,10 +6,7 @@ sections:
     subtitle: >-
       promotes inclusive innovation, creative and social enterprise, and
       entrepreneurship in the Boston community.
-    actions:
-      - label: Contact Us
-        url: /contact
-        style: secondary
+    actions: []
     align: left
     image_alt: Hero placeholder image
     image_position: right
