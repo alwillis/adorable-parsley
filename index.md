@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Fairmount Innovation Lab
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      promotes inclusive innovation, creative and social enterprise, and
+      entrepreneurship in the Boston community.
     actions:
       - label: Learn More
         url: /features
