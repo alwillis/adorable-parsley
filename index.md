@@ -7,9 +7,6 @@ sections:
       promotes inclusive innovation, creative and social enterprise, and
       entrepreneurship in the Boston community.
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
